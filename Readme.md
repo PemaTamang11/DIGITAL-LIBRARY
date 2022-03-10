@@ -1,4 +1,4 @@
-# DIGITAL LOBRARY
+# DIGITAL LIBRARY
 
 ### About
 
