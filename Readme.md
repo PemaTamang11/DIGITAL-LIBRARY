@@ -1,8 +1,8 @@
-# Ebook Store
+# DIGITAL LOBRARY
 
 ### About
 
-Ebook Store is an application where readers can spend time reading quality books. It offers a variety of books which are divided into different genres. Readers can provide ratings and their opinions after reading a book. A recommendation system has also been used which recommends new books to the reader based on his earlier reads and how much he liked the novel. 
+Digital Library is an application where readers can spend time reading quality books. It offers a variety of books which are divided into different genres. Readers can provide ratings and their opinions after reading a book. A recommendation system has also been used which recommends new books to the reader based on his earlier reads and how much he liked the novel. 
 
 ## Flow and Feature
 
@@ -41,7 +41,7 @@ Ebook Store is an application where readers can spend time reading quality books
 
 ## MIT LICENSE
 
-> Copyright (c) 2018 Bhavesh Singh
+> 
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
